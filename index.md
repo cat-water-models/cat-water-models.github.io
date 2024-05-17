@@ -24,3 +24,9 @@ We seek to explore the challenges and opportunities to implement this novel appr
 ## Outputs
 
 Our efforts will culminate in a special issue published in a peer-reviewed journal, a series of blogs, and a final public event.  
+
+---
+
+## Funding
+
+Our project is funded by the Network of European Institutes for Advanced Study (NETIAS)  through the Constructive Advanced Thinking (CAT) program
