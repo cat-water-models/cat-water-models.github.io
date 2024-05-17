@@ -9,8 +9,6 @@ aside: true
 
 We are an interdisciplinary and international team of early career researchers (two postdocs, two doctoral researchers). We have a keen interest in researching water combining and contrasting different disciplinary perspectives including human geography (Alba Rossella Alba), governance (Rozemarijn ter Horst) and water resources management (Jonatan Godinez Madrigal) and hydrological modelling (Bich Tran). We are currently engaged in researching the role of models (particularly hydrological models) and modellers in influencing water governance and management in four distinct projects and in different locations and case studies.
 
-# Meet the team
-
 ## Rossella Alba
 
 Postdoctoral researcher,  the Geography Institute and at the Integrative Research Institute on Transformations of Human-Environment Systems (IRI THESys) of Humboldt University of Berlin.
@@ -23,7 +21,7 @@ Lecturer/PhD researcher, the Water Resources Management group at Wageningen Univ
 
 She researches how technologies, including models and innovations are shaped by, and in turn shape, policy processes related to shared waters. Rozemarijn’s research interests encompass sociotechnical imaginaries, specifically how data and technologies play a role in identifying generally accepted options for development, understanding interactions between lay-people and experts as well as between different disciplines. Before herwork with Wageningen University, Rozemarijn has worked at IHE Delft on water diplomacy, and remains affiliated as Guest Researcher Transboundary Water Governance.
 
-##Jonatan Godinez Madrigal
+## Jonatan Godinez Madrigal
 
 Posdoctoral researcher,  IHE Delft Institute for Water Education. 
 
