@@ -11,8 +11,6 @@ The development and use of quantitative models in water research and practice is
 
 ## Interdisciplinary
 
-<img class="right-picture" src="https://github.com/cat-water-models/cat-water-models.github.io/blob/main/assets/logos/logo.svg">
-
 The project strengthens the collaboration between an interdisciplinary and international group of early career researchers studying water modelling in various contexts and from different perspectives, methodologies and approaches.
 
 ## Reflexivity
