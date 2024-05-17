@@ -10,6 +10,8 @@ We are an interdisciplinary and international team of early career researchers (
 
 ## Rossella Alba
 
+{% include figure.html image="https://www.iri-thesys.org/media/Alba_website-image-500x500.jpeg" position="right" width="150" height="150" %}
+
 Postdoctoral researcher,  the Geography Institute and at the Integrative Research Institute on Transformations of Human-Environment Systems (IRI THESys) of Humboldt University of Berlin.
 
 She is the scientific coordinator of the interdisciplinary project “Water security for whom?” financed by the Volkswagen Foundation. As part of the project, she investigates the role of models and modellers in (re)configuring socio-ecological inequalities and water-food-energy relations in the context of multi-purpose dams in Colombia. She has research interests include environmental justice, (urban) political ecology, socio-technical interactions and in the potentials offered by inter- and trans-disciplinary collaboration to foster critical water geographies and just transformations.
