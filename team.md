@@ -18,7 +18,7 @@ She is the scientific coordinator of the interdisciplinary project “Water secu
 
 ## Rozemarijn ter Horst
 
-{% include figure.html image="https://ihe-delft-ihe-website-production.s3.eu-central-1.amazonaws.com/s3fs-public/2022-09/Rozemarijn%20ter%20Horst.jpg" position="left" width="150" height="150" %}
+{% include figure.html image="https://www.paris-iea.fr/images/residents/30584/rh-ter-horst.jpg" position="left" width="150" height="150" %}
 
 Lecturer/PhD researcher, the Water Resources Management group at Wageningen University.
 
@@ -34,7 +34,7 @@ His research consists of studying water conflicts in the Global South with speci
 
 ## Bich Tran
 
-{% include figure.html image="https://github.com/trngbich/trngbich.github.io/blob/gh-pages/trngbich.jpg" position="left" width="150" height="150" %}
+{% include figure.html image="https://raw.githubusercontent.com/trngbich/trngbich.github.io/gh-pages/trngbich.jpg" position="left" width="150" height="150" %}
 
 PhD researcher, IHE Delft Institute for Water Education. 
 
