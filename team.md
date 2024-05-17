@@ -18,17 +18,23 @@ She is the scientific coordinator of the interdisciplinary project “Water secu
 
 ## Rozemarijn ter Horst
 
+{% include figure.html image="https://ihe-delft-ihe-website-production.s3.eu-central-1.amazonaws.com/s3fs-public/2022-09/Rozemarijn%20ter%20Horst.jpg" position="left" width="150" height="150" %}
+
 Lecturer/PhD researcher, the Water Resources Management group at Wageningen University.
 
 She researches how technologies, including models and innovations are shaped by, and in turn shape, policy processes related to shared waters. Rozemarijn’s research interests encompass sociotechnical imaginaries, specifically how data and technologies play a role in identifying generally accepted options for development, understanding interactions between lay-people and experts as well as between different disciplines. Before herwork with Wageningen University, Rozemarijn has worked at IHE Delft on water diplomacy, and remains affiliated as Guest Researcher Transboundary Water Governance.
 
 ## Jonatan Godinez Madrigal
 
+{% include figure.html image="https://ihe-delft-ihe-website-production.s3.eu-central-1.amazonaws.com/s3fs-public/styles/530x530/public/2023-03/47915_madrigal_2.jpg" position="right" width="150" height="150" %}
+
 Posdoctoral researcher,  IHE Delft Institute for Water Education. 
 
 His research consists of studying water conflicts in the Global South with special emphasis on the ripples they originate in other fields of knowledge, such as the scientific objects (i.e. water resources models) that are used to resolve the knowledge controversies that drive the conflicts. He has published numerous scientific papers in high-impact journals on a critical perspective of science-policy processes, water conflicts as drivers of societal transformations, and transdisciplinary production of knowledge to transform water conflicts and socio-technical systems.
 
 ## Bich Tran
+
+{% include figure.html image="https://github.com/trngbich/trngbich.github.io/blob/gh-pages/trngbich.jpg" position="left" width="150" height="150" %}
 
 PhD researcher, IHE Delft Institute for Water Education. 
 
