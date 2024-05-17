@@ -4,7 +4,6 @@ feature_text: |
   Who we are
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "CAT Water models team"
-aside: true
 ---
 
 We are an interdisciplinary and international team of early career researchers (two postdocs, two doctoral researchers). We have a keen interest in researching water combining and contrasting different disciplinary perspectives including human geography (Alba Rossella Alba), governance (Rozemarijn ter Horst) and water resources management (Jonatan Godinez Madrigal) and hydrological modelling (Bich Tran). We are currently engaged in researching the role of models (particularly hydrological models) and modellers in influencing water governance and management in four distinct projects and in different locations and case studies.
