@@ -1,7 +1,7 @@
 ---
 title: Team
 feature_text: |
-  Who we are
+  ## Who we are
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "CAT Water models team"
 ---
