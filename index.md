@@ -1,8 +1,8 @@
 ---
-title: Water models 
+title: About our project
 feature_text: |
-  ## Researching modelling practices in water governance
-  Examining how quantitative models are currently developed and used in water governance and management. 
+  ##  Modelling practices in water governance
+  Examining how quantitative models are currently developed and used in water governance and management 
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Examining how quantitative models are currently developed and used in water governance and management. "
 ---
