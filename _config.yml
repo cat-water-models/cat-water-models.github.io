@@ -132,7 +132,7 @@ navigation_header:
 #- title: Search
 #  url: /search/
 - title: Open book
-  url: https://cat-water-models.github.com/book
+  url: https://cat-water-models.github.io/book
 navigation_footer:
 - title: Funded by CAT
   url: http://netias.science/project_constructive-advanced-thinking
