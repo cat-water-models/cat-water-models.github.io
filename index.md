@@ -21,9 +21,7 @@ We are developing a reflexive approach to modelling that is helpful to make the 
 
 We seek to explore the challenges and opportunities to implement this novel approach through regular workshops, peer to peer learning and engagement with experts.
 
-## Outputs
-
-Our efforts will culminate in a special issue published in a peer-reviewed journal, a series of blogs, and a final public event.  
+![cat_group](assets/img/cat_group.jpeg)
 
 ---
 

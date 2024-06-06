@@ -10,7 +10,7 @@ We are working together through in-person workshops every six months over two ye
 
 ### Swedish Collegium for Advanced Study, Uppsala
 
-16 - 20 October, 2023
+[16 - 20 October, 2023](http://www.swedishcollegium.se/subfolders/News/2023/CAT%20group%20visit_231020.html)
 
 ### Paris Institute for Advanced Studies, Paris
 
