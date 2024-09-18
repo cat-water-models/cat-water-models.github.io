@@ -7,7 +7,7 @@ excerpt: "CAT Water models outputs"
 ---
 
 ### Journal articles
-* ter Horst, R., Alba, R., Vos, J., Rusca, M., Godinez-Madrigal, J., Babel, L. V., Veldwisch, G. J., Venot, J.-P., Bonté, B., Walker, D. W., and Krueger, T.: Making a case for power-sensitive water modelling: a literature review, Hydrol. Earth Syst. Sci. Discuss. [preprint], [https://doi.org/10.5194/hess-2023-164](https://doi.org/10.5194/hess-2023-164), in review, 2023.
+* ter Horst, R., Alba, R., Vos, J., Rusca, M., Godinez-Madrigal, J., Babel, L.V., Veldwisch, G.J., Venot, J.P., Bonté, B., Walker, D.W. and Krueger, T. Making a case for power-sensitive water modelling: a literature review. Hydrology and Earth System Sciences, 28(17), pp.4157-4186. [https://doi.org/10.5194/hess-28-4157-2024](https://doi.org/10.5194/hess-28-4157-2024), 2024.
 
 ### Blog articles
 * ter Horst R.: Reflexivity on modelling for transboundary water governance. FLOWs. https://doi.org/10.58079/w6mk, 2024
