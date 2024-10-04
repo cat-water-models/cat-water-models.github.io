@@ -13,10 +13,10 @@ We are working together through in-person workshops every six months over two ye
 [16 - 20 October, 2023](http://www.swedishcollegium.se/subfolders/News/2023/CAT%20group%20visit_231020.html)
 
 In the first workshop, we shared our experience from 4 different cases:
-- The use of WEAP (Water Evaluation And Planning) model in Dam conflicts in Mexico
-- Situated modelling
+- The use of WEAP (Water Evaluation And Planning) model for reservoir management in Mexico
 - The use of data-driven model to predict conflicts in Water, Peace, and Security project
 - The use of model to retrieve remote sensing-derived data for Water Productivity monitoring
+- Situated modelling
 
 ### Paris Institute for Advanced Studies, Paris
 
