@@ -11,6 +11,6 @@ excerpt: "CAT Water models outputs"
 
 ### Blog articles
 * ter Horst R.: Reflexivity on modelling for transboundary water governance. FLOWs. [https://doi.org/10.58079/w6mk](https://doi.org/10.58079/w6mk), 2024
-* Madrigal, J.G., ter Horst, R., Tran, B. and Alba, R.: Models do not think. The Water Dissensus - A Water Alternatives Forum, [https://www.water-alternatives.org/index.php/blog/models](https://www.water-alternatives.org/index.php/blog/models), 2024.
+* Godinez-Madrigal, J., ter Horst, R., Tran, B. and Alba, R.: Models do not think. The Water Dissensus - A Water Alternatives Forum, [https://www.water-alternatives.org/index.php/blog/models](https://www.water-alternatives.org/index.php/blog/models), 2024.
 * Alba, R.: Towards a reflexive approach: connecting critical research on water modelling. FLOWs.  [https://doi.org/10.58079/os2e](https://doi.org/10.58079/os2e), 2022
 * ter Horst , R.: Can a model care? FLOWs. [https://doi.org/10.58079/os2q](https://doi.org/10.58079/os2q), 2022
