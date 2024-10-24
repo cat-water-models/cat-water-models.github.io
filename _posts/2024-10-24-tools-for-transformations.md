@@ -16,13 +16,13 @@ We are four early career scholars, Rossella Alba (IRI THESys, Berlin), Jonatan G
 
 The first stop in our CAT project was the Swedish Collegium for Advanced Studies in October 2023. We started with sharing our different experiences with doing and researching  modelling waters, from a focus on dealing with uncertainty in models (Bich), collective modelling practices (Rossella), modelling at the science-policy interface (Rozemarijn), and to counter-modelling in local water conflicts (Jonatan). Inspired by Casper Bruun Jensen’s ecology of models [2] and Carl Linneaus’ taxonomy of plants and animals, we thought through what an ecology and a taxonomy of models would look like. What happens if we see models as evolving creatures? How would models ‘behave’ and propagate, and what impacts could they have in influencing socio-techno-natural-political systems? 
 
-{% include figure.html image="https://cat-water-models.github.io/assets/img/cat_group.jpeg" caption="Group photo at SCAS" position="right" width="200" height="160" %}
+{% include figure.html image="https://cat-water-models.github.io/assets/img/cat_group.jpeg" caption="Group photo at SCAS" position="right" width="300" height="240" %}
 
 <!-- more -->
 
 Based on the discussion in Uppsala, we hosted an open online discussion on the Water Alternatives Forum [3]. In this Water Dissensus, we posited models as controversial tools as they are often used in a way that replaces or forecloses thinking. We invited people to think with us on how we can use models as thinking tools instead of exclusively as intellectual tools devoid of values and meanings. What is the  potentiality of models (all possible ways they can be used), and their affordance (the restrictions inherent in how they are used)? Our message was well received by some, while seen by others as criticisms of models, and science and technology in general. The solution that seemed most accredited in  the discussion was, still, to do business-as-usual but with better data, better fine-tuning methods, or better computers. We thought more structural change is needed to ensure models are used for thinking [4][5][6].
 
-{% include figure.html image="https://www.water-alternatives.org/images/easyblog_articles/100/b2ap3_large_bbb.png" caption="A cyborg thinking about a river basin model (AI generated illustration)" position="right" width="200" height="160" %}
+{% include figure.html image="https://www.water-alternatives.org/images/easyblog_articles/100/b2ap3_large_bbb.png" caption="A cyborg thinking about a river basin model (AI generated illustration)" position="right" width="300" height="240" %}
 
 <!-- more -->
 
@@ -32,7 +32,7 @@ Our insights from the Water Dissensus were the starting point for the conversati
 
 During our last meeting in Montpellier, hosted by the Montpellier Advanced Knowledge Institute on Transitions (MAK’IT), we focused our discussion on  how to model for Just Water Transformations. MAK’IT facilitated connections with G-EAU, where over 160 researchers work on water, from different disciplinary perspectives. In a seminar at G-EAU, we presented our ideas on reflexive and situated modelling, and how to design the modelling process with the modellers, funders, commissioners and communities while considering power dynamics between these actors. We feel much welcomed by the supportive and constructive feedback from modellers, social scientists, and those working interdisciplinarily at G-EAU. Fueled by this cross-fertilization and enthusiasm, we strategised about how to turn our insights and ideas into comprehensive research proposal(s) and to establish a long-term research agenda for modelling for just water transformations in our lines of work.
 
-{% include figure.html image="https://cat-water-models.github.io/assets/img/IMG_1943-min.JPG" caption="Group photo at MAK’IT" position="right" width="200" height="160" %}
+{% include figure.html image="https://cat-water-models.github.io/assets/img/IMG_1943-min.JPG" caption="Group photo at MAK’IT" position="right" width="300" height="240" %}
 
 <!-- more -->
 
