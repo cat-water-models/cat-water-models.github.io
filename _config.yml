@@ -127,6 +127,8 @@ navigation_header:
   url: /team/
 - title: Workshops
   url: /workshops/
+- title: Blog
+  url: /blog/  
 - title: Featured works
   url: /featured/
 #- title: Search
