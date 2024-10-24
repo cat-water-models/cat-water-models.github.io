@@ -6,7 +6,7 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-From 30 September to 10 October, we were hosted by MAK’it in the context of the Constructive Advanced Thinking (CAT) programme. MAK’it was the third Institute of Advanced Studies that hosted us, after Uppsala and Paris. Taking time to think is somewhat rare in the rat-race that science can be somtimes [1]. The CAT programme is offering us time away from the day-to-day distractions, as well as inspiring connections within, and especially outside our own fields of research.
+From 30 September to 10 October, we were hosted by MAK’it in the context of the Constructive Advanced Thinking (CAT) programme. MAK’it was the third Institute of Advanced Studies that hosted us, after Uppsala and Paris. Taking time to think is somewhat rare in the rat-race that science can be sometimes [1]. The CAT programme is offering us time away from the day-to-day distractions, as well as inspiring connections within, and especially outside our own fields of research.
 
 <!-- more -->
 
