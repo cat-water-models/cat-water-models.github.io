@@ -28,9 +28,9 @@ We discussed with  Tobias Krueger, Andrea Saltelli and Neelke Doorn on how we ca
 
 ### Montpellier Advanced Knowledge Institute on Transitions, Montpellier
 
-[30 September - 10 October, 2024](https://www.g-eau.fr/index.php/fr/umr-geau/calendrier-des-evenements/135-seminaire-modelling-for-just-water-transformations)
+[30 September - 10 October, 2024](https://makit.edu.umontpellier.fr/en/2024/09/25/makit-hosts-a-new-cat-group-about-modelling-practices-in-water-governance/)
 
-L'UMR G-EAU Seminar: Modelling for just water transformations
+[L'UMR G-EAU Seminar: Modelling for just water transformations](https://www.g-eau.fr/index.php/fr/umr-geau/calendrier-des-evenements/135-seminaire-modelling-for-just-water-transformations)
 
 Building on the initial critical interrogation of modelling, we are now turning towards exploring how models and modelling can support just water transformations. For us, just transformation involves situated knowledge, ad hoc local commitments, and negotiations between different worldviews, knowledges, objectives and values. During this seminar, we introduced our CAT project to G-EAU researchers and presented the insights we gained so far. In a facilitated discussion, we invited participants to share their feedback on our work and to share experiences, ideas, examples, and (novel) practices for modelling waters for just transformations.
 
