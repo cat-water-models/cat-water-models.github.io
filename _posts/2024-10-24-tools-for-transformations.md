@@ -44,5 +44,4 @@ We are looking forward to our final meeting in Amsterdam, to build on the progre
 * <small>[3] https://www.water-alternatives.org/index.php/blog/models </small>
 * <small>[4] https://doi.org/10.5194/hess-28-4157-2024 </small>
 * <small>[5] https://doi.org/10.1080/26395916.2024.2361706 </small>
-
-<small>[6] Alba et al. (forthcoming). Situating: a proposal for engaging with the power of hydrological models </small>
+* <small>[6] Alba et al. (forthcoming). Situating: a proposal for engaging with the power of hydrological models </small>
