@@ -6,7 +6,7 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-From 30 September to 10 October, we were hosted by MAK’it in the context of the Constructive Advanced Thinking (CAT) programme. MAK’it was the third Institute of Advanced Studies that hosted us, after Uppsala and Paris. Taking time to think is somewhat rare in the rat-race that science can be [1]. The CAT programme is offering us time away from the day-to-day distractions, as well as inspiring connections within, and especially outside our own fields of research.
+From 30 September to 10 October, we were hosted by MAK’it in the context of the Constructive Advanced Thinking (CAT) programme. MAK’it was the third Institute of Advanced Studies that hosted us, after Uppsala and Paris. Taking time to think is somewhat rare in the rat-race that science can be somtimes [1]. The CAT programme is offering us time away from the day-to-day distractions, as well as inspiring connections within, and especially outside our own fields of research.
 
 <!-- more -->
 
@@ -39,14 +39,10 @@ During our last meeting in Montpellier, hosted by the Montpellier Advanced Knowl
 We are looking forward to our final meeting in Amsterdam, to build on the progress made, and to keep on learning from other disciplines.
 
 <!-- more -->
-<small>[1] https://flows.hypotheses.org/11202 </small>
-
-<small>[2] https://doi.org/10.1177/0306312719871616 </small>
-
-<small>[3] https://www.water-alternatives.org/index.php/blog/models </small>
-
-<small>[4] https://doi.org/10.5194/hess-28-4157-2024 </small>
-
-<small>[5] https://doi.org/10.1080/26395916.2024.2361706 </small>
+* <small>[1] https://flows.hypotheses.org/11202 </small>
+* <small>[2] https://doi.org/10.1177/0306312719871616 </small>
+* <small>[3] https://www.water-alternatives.org/index.php/blog/models </small>
+* <small>[4] https://doi.org/10.5194/hess-28-4157-2024 </small>
+* <small>[5] https://doi.org/10.1080/26395916.2024.2361706 </small>
 
 <small>[6] Alba et al. (forthcoming). Situating: a proposal for engaging with the power of hydrological models </small>
