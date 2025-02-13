@@ -34,6 +34,14 @@ We discussed with  Tobias Krueger, Andrea Saltelli and Neelke Doorn on how we ca
 
 Building on the initial critical interrogation of modelling, we are now turning towards exploring how models and modelling can support just water transformations. For us, just transformation involves situated knowledge, ad hoc local commitments, and negotiations between different worldviews, knowledges, objectives and values. During this seminar, we introduced our CAT project to G-EAU researchers and presented the insights we gained so far. In a facilitated discussion, we invited participants to share their feedback on our work and to share experiences, ideas, examples, and (novel) practices for modelling waters for just transformations.
 
+### IHE Delft Institute for Water Education, Delft
+
+12 February, 2025
+
+[Seminar: So models have a social and political life. What does this mean for a modeller in practice?](https://www.un-ihe.org/events/seminar-so-models-have-social-and-political-life-what-does-mean-modeller-practice)
+
+In this interactive hybdrid seminar, we created a space for researchers who use models, aspire to use models, or work with modellers to exchange experiences around the following questions: How do you see your responsibility as modeller for the influence a model can have? What were you proud of your modelling practice, what would you avoid in the future?
+
 ### Netherlands Institute for Advanced Study, Amsterdam
 
 10 - 14 March, 2025
