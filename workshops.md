@@ -40,7 +40,7 @@ Building on the initial critical interrogation of modelling, we are now turning 
 
 [Seminar: So models have a social and political life. What does this mean for a modeller in practice?](https://www.un-ihe.org/events/seminar-so-models-have-social-and-political-life-what-does-mean-modeller-practice)
 
-In this interactive hybdrid seminar, we created a space for researchers who use models, aspire to use models, or work with modellers to exchange experiences around the following questions: How do you see your responsibility as modeller for the influence a model can have? What were you proud of your modelling practice, what would you avoid in the future?
+In this interactive hybrid seminar, we created a space for researchers who use models, aspire to use models, or work with modellers to exchange experiences around the following questions: How do you see your responsibility as modeller for the influence a model can have? What were you proud of your modelling practice, what would you avoid in the future?
 
 ### Netherlands Institute for Advanced Study, Amsterdam
 
