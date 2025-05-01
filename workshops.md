@@ -44,6 +44,6 @@ In this interactive hybrid seminar, we created a space for researchers who use m
 
 ### Netherlands Institute for Advanced Study, Amsterdam
 
-10 - 14 March, 2025
+October, 2025
 
 (forthcoming)
