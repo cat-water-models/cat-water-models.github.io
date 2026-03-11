@@ -37,23 +37,23 @@ As an experienced modeller, Tobias pointed out that sometimes modellers need to 
 <!-- more -->
 These insights served as input for discussions in smaller groups in  break-out sessions, from which we distilled the following key take-aways:
 
-**Models as specific simplifications:** 
+- **Models as specific simplifications:** 
 
-- **_Contextualisation_**: Models are simplifications of reality, with specific decisions on boundaries and how to represent space and time. To support these design choices, always make sure to understand the context of what is modelled.
-- **_Constraints_**: Modelling is a way to explore the world, but the world’s complexity is difficult to capture in the constraints of a model. 
-- **_Uncertainty_**:  Uncertainty should be better understood, communicated, and managed. Model users should be engaged in setting expectations in a useful manner.
-- **_Society_**: How to include "the society" in models? There is no one-size-fits-all answer, and bringing up the question provides an opportunity for collaboration and ‘intra-action’ between disciplines.
+  - **_Contextualisation_**: Models are simplifications of reality, with specific decisions on boundaries and how to represent space and time. To support these design choices, always make sure to understand the context of what is modelled.
+  - **_Constraints_**: Modelling is a way to explore the world, but the world’s complexity is difficult to capture in the constraints of a model. 
+  - **_Uncertainty_**:  Uncertainty should be better understood, communicated, and managed. Model users should be engaged in setting expectations in a useful manner.
+  - **_Society_**: How to include "the society" in models? There is no one-size-fits-all answer, and bringing up the question provides an opportunity for collaboration and ‘intra-action’ between disciplines.
 
-**The modeller as mediator in practice**
+- **The modeller as mediator in practice**
 
-- **_Political modelling choices_**: It is sometimes up to the modellers to recognise the politics in their modelling practice and model-supported decisions, and refer these back to other actors. For instance, optimisation criteria for water distribution are political decisions. It is the social responsibility of the modeler to make any implicit goals and decisions of a model explicit to all people who are impacted by such decisions.
-- **_Model uses & responsibility_**: It is the ethical responsibility of the modeller to prevent harmful uses of models and outcomes. The challenges is when the modeller has little influence on this.
+  - **_Political modelling choices_**: It is sometimes up to the modellers to recognise the politics in their modelling practice and model-supported decisions, and refer these back to other actors. For instance, optimisation criteria for water distribution are political decisions. It is the social responsibility of the modeler to make any implicit goals and decisions of a model explicit to all people who are impacted by such decisions.
+  - **_Model uses & responsibility_**: It is the ethical responsibility of the modeller to prevent harmful uses of models and outcomes. The challenges is when the modeller has little influence on this.
 
-**Modelling as a joint responsibility**
+- **Modelling as a joint responsibility**
 
-- **_Creating a shared responsibility_**: Making the social and political life of models explicit can be a way to create a shared responsibility of models development and use in a project. 
-- **_Individual & institutional_**: The responsibility resides not only with individual modellers through ethical consciousness and training, but also with the institutions where these models are mobilized and used, necessitating regulatory frameworks.
-- **_Limits in agency_**:  Novice modellers are often ‘driven’ to one or another model, often influenced by senior modellers. It takes time to understand what these choices mean, and often there is little space to choose other options.
+  - **_Creating a shared responsibility_**: Making the social and political life of models explicit can be a way to create a shared responsibility of models development and use in a project. 
+  - **_Individual & institutional_**: The responsibility resides not only with individual modellers through ethical consciousness and training, but also with the institutions where these models are mobilized and used, necessitating regulatory frameworks.
+  - **_Limits in agency_**:  Novice modellers are often ‘driven’ to one or another model, often influenced by senior modellers. It takes time to understand what these choices mean, and often there is little space to choose other options.
 
 <!-- more -->
 
